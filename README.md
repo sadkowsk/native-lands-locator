@@ -15,10 +15,12 @@ Watch a video walk-through of this repo here: [youtube link]
 
 ## 5. Evaluation
 
-## 6. Critical Analysis
+## 6. Ethics
 
-## 7. Demonstration
+## 7. Critical Analysis
 
-## 8. Further Development
+## 8. Demonstration
 
-## 9. Sources
+## 9. Further Development
+
+## 10. Sources
