@@ -17,10 +17,14 @@ Watch a video walk-through of this repo here: [youtube link]
 
 ## 6. Ethics
 
-## 7. Critical Analysis
+## 7. Critique
+
+### Strengths
+
+### Limitations
 
 ## 8. Demonstration
 
-## 9. Further Development
+## 9. Development
 
 ## 10. Sources
