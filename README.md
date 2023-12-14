@@ -35,6 +35,7 @@ Opportunity: NatLLo helps users explore the potential relationships of their res
 ### Functional Design
 
 ### Instructions Prompt
+- See instructionsprompt.md above
 
 ### NLP Methods
 - Named entity recognition
