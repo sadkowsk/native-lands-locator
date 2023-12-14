@@ -42,6 +42,8 @@ Opportunity: NatLLo helps users explore the potential relationships of their res
 - Retrieval augmented generation?
 
 ## 3. Model Card
+- See modelcard.md above
+- Also see https://cdn.openai.com/papers/gpt-4-system-card.pdf
 
 ## 4. Dataset Fine-Tuning
 
