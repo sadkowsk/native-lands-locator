@@ -72,7 +72,7 @@ See instructionsprompt.md above for the exact instructions prompt that implement
 ### 8-C. Alternative Deployment
 
 ### 8-D. Indigenous Ownership
-In further deployments of NatLlo and its model variants, it is of paramount importance to ensure cultural sensitivity and accuracy, respecting consent and representation of native/indigenous communities, safeguarding intellectual property and cultural heritage, and promoting inclusivity and diversity to honor the diverse narratives and perspectives of these groups in a respectful and ethical manner.
+Further adaptations and deployments of NatLlo should ensure cultural sensitivity and accuracy, respecting consent and representation of native/indigenous communities, safeguarding intellectual property and cultural heritage, and promoting inclusivity and diversity to honor the diverse narratives and perspectives of these groups in a respectful and ethical manner.
 
 ## 9. Resources
 - Research articles
