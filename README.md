@@ -9,9 +9,9 @@ Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your
 Popular references to geographic locations rarely acknowledge these locations' belonging, past or present, to native and indigenous peoples. NatLlo enables users to explore the potential relationships between their input materials with native and indigenous peoples and their lands. In doing so, it aims to counter their historical invisibility and marginalization, fostering appreciation of their cultural and ecological significance. By linking the geographic entities referenced in users' materials to nearby native lands, NatLlo promotes more locally inclusive considerations of global human diversity.
 
 ### 1-B. Contributions
-- Research contributions: no models on Hugging Face fine-tuned for NatLlo's same purpose; indirect support of LLMs for underresourced languages; etc.
-- Example NatLlo use cases
-- Example implications for further app/model development and thematic exploration
+- Use Cases: place-based education; project research and drafting
+- Research: no comparable fine-tuned models currently on Hugging Face or elsewhere
+- Development: adaption for other models; specification of issue areas (i.e., climate impact on indigenous lands, underresourced languages, etc.)
 
 ### 1-C. Ethical Considerations
 This custom GPT operates at the intersection of geographic information systems, indigenous studies, and natural language processing. Native and indigenous peoples and lands are defined here as "_________." As such, ___________________________. The _________ and _________ offer further guidance on ethical representatations of native and indigenous peoples.
