@@ -7,34 +7,37 @@ Watch a video walk-through of this repo here: [youtube link]
 
 ## 1. Overview
 
-### 1-A. Motivation
+### Motivation
 - Problem
 - Opportunity
 
-### 1-B. Domain Context
+### Domain Context
 - Definitions
 - Conceptual table/figure
 
-### 1-C. Possibilities
+### Possibilities
 - Imagined output, outcome
 - Example use cases
 - Research contribution
 
-### 1-D. Considerations
+### Considerations
 - Policy
 - Ethics
 
-### 1-E. Requirements
+### Requirements
 
 ## 2. High-Level Approach
-- Custom-GPT architecture
-- Implementation prompt
-- Knowledge base
-- NLP methods
-- API integration
-- Functional design
 
-## 3. Hugging Face Model Card
+### GPT Architecture
+
+### Functional Design
+
+### Instructions Prompt
+- Knowledge base
+
+### NLP Methods
+
+## 3. Model Card
 
 ## 4. Dataset Fine-Tuning
 
