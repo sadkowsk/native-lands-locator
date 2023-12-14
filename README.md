@@ -6,9 +6,7 @@ Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your
 ## 1. Overview
 
 ### 1-A. Motivation
-NatLlo aims to address the pervasive underrepresentation and invisibility of native/indigenous peoples and their lands in contemporary references to geographic entities. Despite their historical and cultural significance, native territories are often overlooked in discussions about cities and countries. This oversight contributes to the marginalization of indigenous communities and the erasure of their rich histories and contributions. By integrating native/indigenous lands and narratives into the identification and analysis of geographic entities, the project seeks to enhance awareness, foster respect for indigenous heritage, and promote a more inclusive and accurate representation of the world's geographical and cultural diversity.
-
-NatLLo helps users explore the potential relationships of their resources—from online content to personal work—with native and indigenous lands
+NatLlo addresses the underrepresentation of native/indigenous peoples and their lands in modern references to geographic entities, while also enabling users to explore the potential relationships between their resources, including online content and personal work, with native and indigenous lands. This initiative not only counters the historical invisibility and marginalization of indigenous communities in discussions about cities and countries, but also fosters a deeper understanding and appreciation of their cultural significance. By linking users' materials to the rich histories and narratives of native territories, the project promotes a more inclusive and accurate representation of global geographical and cultural diversity, encouraging a respectful and engaged exploration of indigenous heritage in relation to contemporary resources.
 
 ### 1-B. Domain Context
 This custom GPT operates at the intersection of geographic information systems, indigenous studies, and natural language processing. Native and indigenous peoples and lands are defined as "quote."
