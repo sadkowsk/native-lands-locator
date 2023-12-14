@@ -14,8 +14,7 @@ Problem: native and indigenous peoples and their lands typically go unmentioned
 Opportunity: NatLLo helps users explore the potential relationships of their resources—from online content to personal work—with native and indigenous lands
 
 ### Domain Context
-- Definitions
-- Conceptual table/figure
+- Definitions: native/indigenous peoples and lands
 
 ### Possibilities
 - Imagined output, outcome
