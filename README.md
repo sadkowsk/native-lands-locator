@@ -1,15 +1,15 @@
 # Native Lands Locator (NatLLo)
-Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your inputs' geographic references with nearby native and indigenous lands. After identifying in-context geographic entities and relating them to nearby native lands, it then explores the cultural and historical connections of the two. NatLlo has implications for further development using other models and approaches.
+Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your inputs' geographic references with nearby native and indigenous lands. After identifying geographic entities and relating them to nearby native lands, it then explores the cultural and historical connections of the two. NatLlo has implications for further development using other models and approaches.
 - Watch a video walk-through of this repo and a model demonstration here: [youtube link]
 - Try NatLLo yourself here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
 
 ## 1. Overview
 
 ### 1-A. Motivation
-In references to geographic locations, acknowledgement that these locations may have once belonged to native and indigenous peoples rarely occurs. NatLlo enables users to explore the potential relationships between their input materials with native and indigenous peoples and their lands, countering the historical invisibility and marginalization of indigenous communities in discussions about cities and countries. In doing so, it also fosters a deeper understanding and appreciation of their cultural significance. By linking users' materials to the rich histories and narratives of native territories, the project promotes a more inclusive and accurate representation of global geographical and cultural diversity, encouraging a respectful and engaged exploration of indigenous heritage in relation to contemporary resources.
+Popular references to geographic locations rarely acknowledge these locations' belonging, past or present, to native and indigenous peoples. NatLlo enables users to explore the potential relationships between their input materials with native and indigenous peoples and their lands. In doing so, it aims to counter their historical invisibility and marginalization, fostering appreciation of their cultural and ecological significance. By linking the geographic entities referenced in users' materials to nearby native lands, NatLlo promotes more locally inclusive considerations of global human diversity.
 
-### 1-B. Domain Context
-This custom GPT operates at the intersection of geographic information systems, indigenous studies, and natural language processing. Native and indigenous peoples and lands are defined as "quote."
+### 1-B. Ethical Considerations
+This custom GPT operates at the intersection of geographic information systems, indigenous studies, and natural language processing. Native and indigenous peoples and lands are defined here as "quote." _________ and _________ offer further guidance on ethical representatations of native and indigenous peoples.
 
 ### 1-C. Possibilities
 - Imagined output, outcome
