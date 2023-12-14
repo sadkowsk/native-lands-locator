@@ -10,9 +10,7 @@ Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your
 - Opportunity: NatLLo helps users explore the potential relationships of their resources—from online content to personal work—with native and indigenous lands
 
 ### 1-B. Domain Context
-This custom GPT operates at the intersection of geographic information, indigenous studies, and natural language processing.
-
-- Definitions: native/indigenous peoples and lands
+This custom GPT operates at the intersection of geographic information systems, indigenous studies, and natural language processing. Native and indigenous peoples and lands are defined as "quote."
 
 ### 1-C. Possibilities
 - Imagined output, outcome
