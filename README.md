@@ -31,10 +31,15 @@ Watch a video walk-through of this repo here: [youtube link]
 
 ## 7. Critique
 
-### Strengths
+### 7-A. Strengths
 
-### Limitations
+### 7-B. Limitations
 
 ## 9. Implications
 
-## 10. Reources
+## 10. Resources
+- Research articles
+- Hugging Face course
+- Coursera prompt engineering course
+- NLPT textbook
+- Guides—i.e., “Fine-Tuning a Pretrained Model”
