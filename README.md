@@ -1,9 +1,7 @@
 # Native Lands Locator (NatLLo)
-Native Lands Locator (NatLLo) is an OpenAI custom GPT that matches your inputs' geographic references with nearby native and indigenous lands. After identifying geographic entities in a context and relating them to nearby native lands, it then explores the cultural and historical connections of the two. NatLlo has implications for further development using other models and approaches.
-
-Try NatLlo with your OpenAI account here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
-
-Watch a video walk-through of this repo here: [youtube link]
+Native Lands Locator (NatLLo) is an OpenAI custom GPT that matches your inputs' geographic references with nearby native and indigenous lands. After identifying in-context geographic entities and relating them to nearby native lands, it then explores the cultural and historical connections of the two. NatLlo has implications for further development using other models and approaches.
+- Try NatLlo with your OpenAI account here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
+- Watch a walk-through of this repo and a NatLlo demonstration here: [youtube link]
 
 ## 1. Overview
 
