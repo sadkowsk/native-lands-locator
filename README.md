@@ -8,10 +8,8 @@ Watch a video walk-through of this repo here: [youtube link]
 ## 1. Overview
 
 ### Motivation
-
-Problem: native and indigenous peoples and their lands typically go unmentioned
-
-Opportunity: NatLLo helps users explore the potential relationships of their resources—from online content to personal work—with native and indigenous lands
+- Problem: native and indigenous peoples and their lands typically go unmentioned
+- Opportunity: NatLLo helps users explore the potential relationships of their resources—from online content to personal work—with native and indigenous lands
 
 ### Domain Context
 - Definitions: native/indigenous peoples and lands
@@ -52,6 +50,7 @@ Opportunity: NatLLo helps users explore the potential relationships of their res
 - F1 score for extractive question answering
 
 ## 6. Demonstration
+- Tutorial video screenshots
 
 ## 7. Critique
 
