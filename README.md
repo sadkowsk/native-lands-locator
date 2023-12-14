@@ -32,14 +32,27 @@ Watch a video walk-through of this repo here: [youtube link]
 ## 7. Critique
 
 ### 7-A. Strengths
+- Contribution
 
 ### 7-B. Limitations
+- Efficiency
+- Token cost
+- Limited parameters
 
-## 9. Implications
+## 8. Implications
 
-## 10. Resources
+### 8-A. Alternative Applications
+
+### 8-B. Best-Fit Models
+
+### 8-C. Alternative Deployment
+
+### 8-D. Indigenous Ownership
+
+## 9. Resources
 - Research articles
 - Hugging Face course
 - Coursera prompt engineering course
 - NLPT textbook
 - Guides—i.e., “Fine-Tuning a Pretrained Model”
+- Indigenous authorities
