@@ -30,19 +30,23 @@ Opportunity: NatLLo helps users explore the potential relationships of their res
 ## 2. High-Level Approach
 
 ### GPT Architecture
+<img width="855" alt="Screenshot 2023-12-14 at 11 14 18" src="https://github.com/sadkowsk/native-lands-locator/assets/143565317/6910c003-d493-4024-8d18-83046cca46b6">
 
 ### Functional Design
 
 ### Instructions Prompt
-- Knowledge base
 
 ### NLP Methods
+- Named entity recognition
+- Extractive question answering
+- Retrieval augmented generation?
 
 ## 3. Model Card
 
 ## 4. Dataset Fine-Tuning
 
 ## 5. Downstream Task Evaluation
+- F1 score for extractive question answering
 
 ## 6. Demonstration
 
@@ -61,6 +65,8 @@ Opportunity: NatLLo helps users explore the potential relationships of their res
 ### Extended Uses
 
 ### Best-Fit Models
+- RoBERTa (encoder-only)
+- Encoder-decoder
 
 ### Alternative Deployment
 
