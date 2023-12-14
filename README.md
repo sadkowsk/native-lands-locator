@@ -12,20 +12,33 @@ Watch a video walk-through of this repo here: [youtube link]
 - Opportunity
 
 ### 1-B. Domain Context
+- Definitions
+- Conceptual table/figure
 
 ### 1-C. Possibilities
+- Imagined output, outcome
+- Example use cases
+- Research contribution
 
 ### 1-D. Considerations
+- Policy
+- Ethics
 
 ### 1-E. Requirements
 
-## 2. Approach
+## 2. High-Level Approach
+- Custom-GPT architecture
+- Implementation prompt
+- Knowledge base
+- NLP methods
+- API integration
+- Functional design
 
-## 3. Model Card
+## 3. Hugging Face Model Card
 
-## 4. Fine-Tuning
+## 4. Dataset Fine-Tuning
 
-## 5. Evaluation
+## 5. Downstream Task Evaluation
 
 ## 6. Demonstration
 
@@ -35,13 +48,13 @@ Watch a video walk-through of this repo here: [youtube link]
 - Contribution
 
 ### 7-B. Limitations
-- Efficiency
+- Efficiency/latency
 - Token cost
-- Limited parameters
+- Model appropriateness
 
 ## 8. Implications
 
-### 8-A. Alternative Applications
+### 8-A. Extended Uses
 
 ### 8-B. Best-Fit Models
 
