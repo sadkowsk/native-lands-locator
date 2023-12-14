@@ -7,17 +7,17 @@ Watch a video walk-through of this repo here: [youtube link]
 
 ## 1. Overview
 
-### Motivation
+### 1-A. Motivation
 - Problem
 - Opportunity
 
-### Domain Context
+### 1-B. Domain Context
 
-### Possibilities
+### 1-C. Possibilities
 
-### Considerations
+### 1-D. Considerations
 
-### Requirements
+### 1-E. Requirements
 
 ## 2. Approach
 
