@@ -7,30 +7,29 @@ Watch a video walk-through of this repo here: [youtube link]
 
 ## 1. Overview
 
-### Motivation
+### 1-A. Motivation
 - Problem: native and indigenous peoples and their lands typically go unmentioned
 - Opportunity: NatLLo helps users explore the potential relationships of their resources—from online content to personal work—with native and indigenous lands
 
-### Domain Context
+### 1-B. Domain Context
 - Definitions: native/indigenous peoples and lands
 
-### Possibilities
+### 1-C. Possibilities
 - Imagined output, outcome
 - Example use cases
 - Research contribution
 
-### Considerations
+### 1-D. Considerations
 - Policy
-- Ethics
-
-### Requirements
+- Ethics: 
 
 ## 2. High-Level Approach
 
-### GPT Architecture
+### 2-A. GPT Architecture
+Explanation
 <img width="855" alt="Screenshot 2023-12-14 at 11 14 18" src="https://github.com/sadkowsk/native-lands-locator/assets/143565317/6910c003-d493-4024-8d18-83046cca46b6">
 
-### NLP Task Sequence
+### 2-B. Task Sequence
 See instructionsprompt.md above for the exact instructions prompt that implements the following NLP task sequence:
 1. Named Entity Recognition
 2. Information Retrieval/Search
@@ -53,25 +52,26 @@ See instructionsprompt.md above for the exact instructions prompt that implement
 
 ## 7. Critique
 
-### Strengths
+### 7-A. Strengths
 - Contribution
 
-### Limitations
+### 7-B. Limitations
 - Efficiency/latency
 - Token cost
 - Model appropriateness
 
 ## 8. Implications
 
-### Extended Uses
+### 8-A. Extended Uses
 
-### Best-Fit Models
+### 8-B. Best-Fit Models
 - RoBERTa (encoder-only)
 - Encoder-decoder
 
-### Alternative Deployment
+### 8-C. Alternative Deployment
 
-### Indigenous Ownership
+### 8-D. Indigenous Ownership
+In further deployments of NatLlo and its model variants, it is of paramount importance to ensure cultural sensitivity and accuracy, respecting consent and representation of native/indigenous communities, safeguarding intellectual property and cultural heritage, and promoting inclusivity and diversity to honor the diverse narratives and perspectives of these groups in a respectful and ethical manner.
 
 ## 9. Resources
 - Research articles
