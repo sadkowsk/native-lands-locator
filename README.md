@@ -14,7 +14,7 @@ Popular references to geographic locations rarely acknowledge these locations' b
 - Development: adaption for other models; specification of issue areas (i.e., climate impact on indigenous lands, underresourced languages, etc.)
 
 ### 1-C. Ethical Considerations
-This custom GPT operates at the intersection of geographic information systems, indigenous studies, and natural language processing. Native and indigenous peoples and lands are defined here as "_________." As such, ___________________________. The _________ and _________ offer further guidance on ethical representatations of native and indigenous peoples._[^1]
+This custom GPT operates at the intersection of geographic information systems, indigenous studies, and natural language processing. Native and indigenous peoples and lands are defined here as "_________." As such, ___________________________. The _________ and _________ offer further guidance on ethical representatations of native and indigenous peoples.[^1]
 
 ## 2. High-Level Approach
 
@@ -71,7 +71,7 @@ See *instructionsprompt.md* above for the exact instructions prompt that impleme
 Further adaptations and deployments of NatLlo should ensure cultural sensitivity and accuracy, respecting consent and representation of native/indigenous communities, safeguarding intellectual property and cultural heritage, and promoting inclusivity and diversity to honor the diverse narratives and perspectives of these groups in a respectful and ethical manner.
 
 ## 9. Resources
-[^1] J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
+[^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
 - Other research articles
 - Hugging Face course
 - Coursera prompt engineering course
