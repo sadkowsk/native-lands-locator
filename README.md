@@ -14,7 +14,7 @@ Popular references to geographic locations rarely acknowledge these locations' b
 - Development: adaption for other models; specification of issue areas (i.e., climate impact on indigenous lands, underresourced languages, etc.)
 
 ### 1-C. Ethical Considerations
-This custom GPT operates at the intersection of geographic information systems, indigenous studies, and natural language processing. Native and indigenous peoples and lands are defined here as "_________." As such, ___________________________. The *Indigenous Protocol and Artificial Intelligence Position Paper* by the Indigenous Protocol and Artificial Intelligence Working Group (2020) offers further guidance on ethical representatations of native and indigenous peoples.[^1]
+This custom GPT operates at the intersection of geographic information systems, indigenous studies, and natural language processing. Native and indigenous peoples and lands are defined here as "_________." As such, ___________________________. The *Indigenous Protocol and Artificial Intelligence Position Paper* by the Indigenous Protocol and Artificial Intelligence Working Group (2020) offers further guidance on ethical representatations of native and indigenous peoples in AI.[^1]
 
 ## 2. High-Level Approach
 
