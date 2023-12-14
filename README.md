@@ -36,9 +36,12 @@ Watch a video walk-through of this repo here: [youtube link]
 - See instructionsprompt.md above
 
 ### NLP Methods
-- Named entity recognition
-- Extractive question answering
-- Retrieval augmented generation?
+1. Named Entity Recognition
+2. Information Retrieval/Search
+3. Data Extraction and Formatting
+4. Text Generation and Summarization
+5. Question Generation
+6. Conditional Logic and Decision Making
 
 ## 3. Model Card
 - See modelcard.md above
