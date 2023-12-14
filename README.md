@@ -24,7 +24,10 @@ Explanation
 <img width="855" alt="Screenshot 2023-12-14 at 11 14 18" src="https://github.com/sadkowsk/native-lands-locator/assets/143565317/6910c003-d493-4024-8d18-83046cca46b6">
 
 ### 2-B. Task Sequence
-See instructionsprompt.md above for the exact instructions prompt that implements the following NLP task sequence:
+Prompt engineering methods
+
+See *instructionsprompt.md* above for the exact instructions prompt that implements the following NLP task sequence:
+
 1. Named Entity Recognition
 2. Information Retrieval/Search
 3. Data Extraction and Formatting
