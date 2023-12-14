@@ -1,21 +1,33 @@
-# Native Lands Locator (NatLLoc)
-Native Lands Locator (NatLLoc) is a custom GPT to match your inputs' geographic references with nearby native and indigenous lands, with implications for further development using other models and approaches.
+# Native Lands Locator (NaLLo)
+Native Lands Locator (NaLLo) is a custom GPT to match your inputs' geographic references with nearby native and indigenous lands, with implications for further development using other models and approaches.
 
-Try NatLloc with your OpenAI account here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator
+Try NaLlo with your OpenAI account here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator
 
 Watch a video walk-through of this repo here: [youtube link]
 
-## 1. Motivation
+## 1. Overview
 
-## 2. Model Card
+### Motivation
+- Problem
+- Opportunity
 
-## 3. Pretraining
+### Domain Context
+
+### Possibilities
+
+### Considerations
+
+### Requirements
+
+## 2. Approach
+
+## 3. Model Card
 
 ## 4. Fine-Tuning
 
 ## 5. Evaluation
 
-## 6. Ethics
+## 6. Demonstration
 
 ## 7. Critique
 
@@ -23,8 +35,6 @@ Watch a video walk-through of this repo here: [youtube link]
 
 ### Limitations
 
-## 8. Demonstration
+## 9. Implications
 
-## 9. Development
-
-## 10. Sources
+## 10. Reources
