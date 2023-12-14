@@ -47,23 +47,23 @@ Watch a video walk-through of this repo here: [youtube link]
 
 ## 7. Critique
 
-### 7-A. Strengths
+### Strengths
 - Contribution
 
-### 7-B. Limitations
+### Limitations
 - Efficiency/latency
 - Token cost
 - Model appropriateness
 
 ## 8. Implications
 
-### 8-A. Extended Uses
+### Extended Uses
 
-### 8-B. Best-Fit Models
+### Best-Fit Models
 
-### 8-C. Alternative Deployment
+### Alternative Deployment
 
-### 8-D. Indigenous Ownership
+### Indigenous Ownership
 
 ## 9. Resources
 - Research articles
