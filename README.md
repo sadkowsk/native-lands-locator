@@ -30,7 +30,7 @@ NatLlo is based on GPT-4, a decoder-only autoregressive transformer model. Phuon
 > [!NOTE]
 > Algorithm 10's pseudocode specifies the architecture for GPT-2. Phuong and Hutter explain the architecture pseudocode for GPT-3 "is identical except larger, and replaces dense attention in Line 6 by sparse attention, i.e. each token only uses a subset of the full context."
 
-Likewise, to reflect GPT-4's model architecture, the formal pseudocode in Algorithm 10 would incorporate the additional changes:
+Likewise, based on GPT-4's technical report_[^4], the formal pseudocode in Algorithm 10 would incorporate the additional changes to reflect GPT-4's architecture:
 - *Increased Parameters and Scale:* Adjust the size of matrices and dimensions (e.g., embeddings, MLP layers) to reflect a larger model scale.
 - *Advanced Attention Mechanisms:* Modify Line 6 to incorporate more efficient or adaptive attention mechanisms, potentially beyond sparse attention.
 - *Optimized Token and Positional Embeddings:* Update the token and positional embedding matrices (Line 2) to reflect advancements in tokenization and embedding techniques.
@@ -86,16 +86,15 @@ See *instructionsprompt.md* above for the exact instructions prompt that impleme
 ### 8-D. Indigenous Ownership
 Further adaptations and deployments of NatLlo should ensure cultural sensitivity and accuracy, respecting consent and representation of native/indigenous communities, safeguarding intellectual property and cultural heritage, and promoting inclusivity and diversity to honor the diverse narratives and perspectives of these groups in a respectful and ethical manner.
 
-## 9. Resources
-[^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
-
-[^2]: M. Phuong and M. Hutter, “Formal Algorithms for Transformers.” arXiv, Jul. 19, 2022. Accessed: Oct. 22, 2023. [Online]. Available: http://arxiv.org/abs/2207.09238
-
-[^3]: K. Rink, “Run Interactive Sessions With ChatGPT In Jupyter Notebook,” Medium. Accessed: Dec. 14, 2023. [Online]. Available: https://towardsdatascience.com/run-interactive-sessions-with-chatgpt-in-jupyter-notebook-87e00f2ee461
-
-- Other research articles
+## 9. Helpful Resources
 - Hugging Face course
 - Coursera prompt engineering course
 - NLPT textbook
-- Guides—i.e., “Fine-Tuning a Pretrained Model”
-- Indigenous authorities
+
+[^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
+
+[^2]: M. Phuong and M. Hutter, “Formal Algorithms for Transformers.” arXiv, Jul. 19, 2022. Accessed: Dec. 14, 2023. [Online]. Available: http://arxiv.org/abs/2207.09238
+
+[^3]: K. Rink, “Run Interactive Sessions With ChatGPT In Jupyter Notebook,” Medium. Accessed: Dec. 14, 2023. [Online]. Available: https://towardsdatascience.com/run-interactive-sessions-with-chatgpt-in-jupyter-notebook-87e00f2ee461
+
+[^4]: OpenAI, “GPT-4 Technical Report,” arXiv.org. Accessed: Dec. 14, 2023. [Online]. Available: https://arxiv.org/abs/2303.08774v3
