@@ -23,21 +23,11 @@ Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your
 
 ### Direct Uses
 
-- Identifying geographic entities in text and mapping them to corresponding native/indigenous lands
-- Facilitating educational and research activities focused on indigenous studies and geographical history
-- Enabling content creators and researchers to acknowledge and integrate native/indigenous perspectives and histories in their work
-- Enhancing cultural awareness and sensitivity in broader geographical and historical discussions
-- Supporting diversity and inclusivity initiatives by providing insights into the historical presence and contributions of indigenous communities
-- Aiding in the development of educational materials that promote a more comprehensive understanding of local and global histories
+NatLlo identifies geographic entities in texts and maps them to native/indigenous lands, aiding educational and research activities in indigenous studies and geography. It enables content creators and researchers to include native/indigenous perspectives in their work, enhancing cultural awareness and supporting diversity. Additionally, it assists in developing educational materials for a comprehensive understanding of history.
 
 ### Out-of-Scope Uses
 
-- Not intended for navigational or legal purposes regarding land ownership or territorial disputes
-- Unsuitable for real-time location-based services or emergency response coordination
-- Not designed for commercial exploitation of native/indigenous cultural knowledge or heritage
-- Inappropriate for determining political boundaries or influencing governmental policy decisions
-- Should not be used as a sole source for critical decision-making in land management or environmental conservation
-- Not applicable for personal identification or tracking of individuals within geographic regions
+NatLlo is not designed for legal purposes, such as determining land ownership, resolving territorial disputes, and other land management decisions. It is also unsuitable for navigational services. It should not be used for commercial exploitation of native/indigenous cultures, influencing political boundaries, or governmental policy-making, nor for personal identification or tracking within geographic regions.
 
 ## Bias, Risks, and Limitations
 
