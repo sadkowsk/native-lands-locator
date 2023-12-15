@@ -33,7 +33,7 @@ NatLlo is based on GPT-4, a decoder-only autoregressive transformer model. Phuon
 In its technical report for GPT-4, OpenAI (2023) also announces why it will not disclose its architecture and other aspects of the model:
 > "Given both the competitive landscape and the safety implications of large-scale models like GPT-4, this report contains no further details about the architecture (including model size), hardware, training compute, dataset construction, training method, or similar."[^4]
 
-Alternatively, providing GPT-4 Phuong and Hutter's article returned these assumptions about potential modifications to Algorithm 10 to reflect its own architecture:
+Alternatively, providing GPT-4 Phuong and Hutter's article and instructing it to reflect its own architecture in Algorithm 10 returned these speculations:
 
 <img width="646" alt="Screenshot 2023-12-14 at 21 05 57" src="https://github.com/sadkowsk/native-lands-locator/assets/143565317/8ff76b29-c4ed-41be-a763-02004f90c941">
 
