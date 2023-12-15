@@ -45,23 +45,30 @@ See *instructionsprompt.md* above for the exact instructions prompt that impleme
 **1. Named Entity Recognition**
 - This is the first step, where the system identifies geographic entities mentioned in the input text or attachments. 
 - NER models are trained to recognize and classify entities in text into predefined categories, such as person names, organizations, dates, and geographic locations.
+
 **2. Information Retrieval/Search**
 - Once geographic entities are identified, the system needs to search a knowledge base or the web to find information about native/indigenous lands associated with these entities. 
 - This task involves querying databases or using web search APIs to find relevant information.
+
 **3. Data Extraction and Formatting**
 - Extracting specific information about native/indigenous lands and organizing it into the required table format involves parsing and structuring data. 
 - This step may also include filtering and validating information to ensure accuracy and relevance.
+
 **4. Text Generation and Summarization**
 - For the descriptive statements about the relationship between the geographic entities and native lands, the system needs to generate concise and informative text. 
 - This might involve summarizing information from longer texts or synthesizing information from multiple sources.
+
 **5. Question Generation**
 - The creation of creative research questions based on the user's input and the identified geographic entities and native lands requires understanding the context and synthesizing new, relevant questions. 
 - This is a complex task as it involves creativity and a deep understanding of the content.
+
 **6. Conditional Logic and Decision Making**
 - The system must apply conditional logic to handle different types of user inputs, as described in your prompt. 
 - This involves decision-making algorithms to determine the appropriate response based on the input's characteristics.
+
 **7. Hyperlink Insertion:**
 - In cases where a Wikipedia page exists for a native/indigenous land, the system needs to accurately insert the correct hyperlink, which involves web searching and hyperlink formatting.
+
 **8. Response Customization:**
 - Adapting the response format based on whether the input includes a request for geographic entity identification, references geographic locations, or falls outside these criteria.
 
