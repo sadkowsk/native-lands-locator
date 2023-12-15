@@ -81,15 +81,27 @@ The following screenshot displays the output NatLlo returned after receiving the
 ## 4. Critique
 
 ### 4-A. Strengths
-- Contribution
+- **Advanced Language Processing:** Incorporates ChatGPT-4's advanced language understanding and generation with NatLLo's focus on geographic and cultural contexts.
+- **Cultural and Historical Insight:** Enhanced awareness of cultural and historical connections, leveraging ChatGPT-4's extensive knowledge base.
+- **Customization and Integration Potential:** High potential for customization and integration, allowing tailored applications in various fields.
+- **Multilingual and Contextual Awareness:** Ability to engage in multiple languages and maintain conversational context, facilitating culturally sensitive interactions.
+- **Educational and Awareness Tool:** Serves as a powerful tool for education and increasing awareness about native lands and cultures.
+- **Scalability and Flexibility:** ChatGPT-4's architecture allows for scalability, making it suitable for applications ranging from individual use to large-scale deployments.
+- **Real-time Interaction:** Capable of real-time interaction, providing immediate responses and engaging in dynamic conversations.
+- **Diverse Application Range:** Suitable for a wide range of applications, from casual inquiries to more structured educational and research purposes.
+- **Continual Learning and Improvement Potential:** The AI model underlying NatLLo has the potential for continual learning and improvement over time, especially as it is exposed to more data and use cases.
+- **Adaptability to User Feedback:** The system can potentially adapt and respond to user feedback, enhancing its effectiveness and user experience over time.
 
 ### 4-B. Limitations
-- Efficiency/latency
-- Token cost
-- Model appropriateness
-- No fine-tuning
-- Inconsistent outputs
-- No downstream task evaluation
+- **Biases:** There's a risk of biases in the AI models leading to unfair or biased interpretations, alongside sensitive ethical considerations in using AI to discuss indigenous lands.
+- **Errors:** A risk of providing incorrect information or being misinterpreted by users, especially in complex or ambiguous scenarios.
+- **Knowledge Cutoff:** ChatGPT-4's knowledge cut-off and dependency on training data can limit the currency and breadth of information in the context of NatLLo.
+- **Latency:** Potential issues with response times and processing efficiency, particularly when handling large or complex queries.
+- **Token Cost:** The cost associated with processing large inputs or generating extensive outputs, which could be a factor in scalability and practical usage.
+- **Model Appropriateness:** The general-purpose nature of ChatGPT-4 may not always align perfectly with the specific requirements of NatLLo, especially in highly specialized cultural or historical contexts.
+- **Dataset Fine-Tuning:** The lack of fine-tuning on specific datasets for NatLLo's unique application could limit the model's effectiveness in certain areas.
+- **Inconsistent Outputs:** Variability in the model's responses, potentially leading to inconsistencies in information provided over time or different instances.
+- **Downstream Task Evaluation:** As of yet, there may not be comprehensive evaluations of the model's performance on specific downstream tasks related to NatLLo's objectives, which could affect its reliability and effectiveness in practical applications.
 
 ## 5. Implications
 
