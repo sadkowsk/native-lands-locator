@@ -110,8 +110,8 @@ Further adaptations and deployments of NatLlo should prioritize ensuring cultura
 
 [^3]: OpenAI, “GPT-4 Technical Report,” arXiv.org. Accessed: Dec. 14, 2023. [Online]. Available: https://arxiv.org/abs/2303.08774v3
 
-[^4]: NYT
+[^4]: J. Jones, “Where’s the Snow? The East Coast Is in for Another Wet Weekend.,” The New York Times, Dec. 14, 2023. Accessed: Dec. 15, 2023. [Online]. Available: https://www.nytimes.com/2023/12/14/us/rain-storm-forecast-snow.html
 
-[^5]: Scientific
+[^5]: R. Oelviani et al., “Climate Change Driving Salinity: An Overview of Vulnerabilities, Adaptations, and Challenges for Indonesian Agriculture,” Weather, Climate, and Society, vol. 16, no. 1, pp. 29–49, Dec. 2023, doi: 10.1175/WCAS-D-23-0025.1.
 
-[^6]: Simon
+[^6]: S. Armitage, Ark. 2019.
