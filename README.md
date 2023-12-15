@@ -70,9 +70,9 @@ Currently lacking a dedicated Jupyter Notebook or a Hugging Face Space, please w
 - Watch a video walk-through of this repo and a model demonstration here: [youtube link]
 - Try NatLLo yourself here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
 - Demonstration/interaction sample materials:
-  - News article (New York Times): https://www.nytimes.com/2023/12/14/us/rain-storm-forecast-snow.html[^4]
-  - Scientific article (American Meteorological Society): https://journals.ametsoc.org/view/journals/wcas/16/1/WCAS-D-23-0025.1.xml[^5]
-  - Poem (Simon Armitage): https://www.simonarmitage.com/wp-content/uploads/Amended-Ark.pdf[^6]
+  - News article (New York Times): (https://www.nytimes.com/2023/12/14/us/rain-storm-forecast-snow.html)[^4]
+  - Scientific article (American Meteorological Society): (https://journals.ametsoc.org/view/journals/wcas/16/1/WCAS-D-23-0025.1.xml)[^5]
+  - Poem (Simon Armitage): (https://www.simonarmitage.com/wp-content/uploads/Amended-Ark.pdf)[^6]
 
 The following screenshot displays the output NatLlo returned after receiving the poem "Ark" by Simon Armitage:
 
