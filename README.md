@@ -28,7 +28,15 @@ NatLlo is based on GPT-4, a decoder-only autoregressive transformer model. Phuon
 <img width="855" alt="Screenshot 2023-12-14 at 11 14 18" src="https://github.com/sadkowsk/native-lands-locator/assets/143565317/6910c003-d493-4024-8d18-83046cca46b6">
 
 > [!NOTE]
-> Algorithm 10's pseudocode specifies the architecture for GPT-2. Phuong and Hutter explain the architecture pseudocode for GPT-3 "is identical except larger, and replaces dense attention in Line 6 by sparse attention, i.e. each token only uses a subset of the full context." Likewise, GPT-4's pseudocode would further change 
+> Algorithm 10's pseudocode specifies the architecture for GPT-2. Phuong and Hutter explain the architecture pseudocode for GPT-3 "is identical except larger, and replaces dense attention in Line 6 by sparse attention, i.e. each token only uses a subset of the full context."
+
+Likewise, GPT-4's pseudocode would further incorporate the following changes to Algorithm 10:
+- *Increased Parameters and Scale:* Adjust the size of matrices and dimensions (e.g., embeddings, MLP layers) to reflect a larger model scale.
+- *Advanced Attention Mechanisms:* Modify Line 6 to incorporate more efficient or adaptive attention mechanisms, potentially beyond sparse attention.
+- *Optimized Token and Positional Embeddings:* Update the token and positional embedding matrices (Line 2) to reflect advancements in tokenization and embedding techniques.
+- *Enhanced Layer Normalization and MLP Activation:* Revise the layer normalization and MLP activation processes (Lines 5, 7, 8, and 10) for improved efficiency and effectiveness.
+- *Robustness and Bias Mitigation Techniques:* Integrate specific steps or parameters designed to address bias and robustness in the model's output, potentially impacting various lines of the algorithm.
+- *Algorithmic Efficiency Improvements:* Implement changes across the algorithm to enhance computational efficiency, affecting the structure and computation of various layers and attention mechanisms.
 
 ### 2-B. Task Sequence
 Prompt engineering methods
