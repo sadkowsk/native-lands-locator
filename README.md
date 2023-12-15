@@ -66,8 +66,10 @@ For the exact instructions that prompt NatLlo according this NLP task sequence (
 ![Screenshot 2023-12-15 at 09 17 50 copy 4](https://github.com/sadkowsk/native-lands-locator/assets/143565317/126d3640-a8ec-4321-93b8-900d5fc04b35)
 
 ## 3. Demonstration
-- Interface/output screenshots
-- Sample docs folder for upload/testing
+Interface/output screenshots
+- https://www.nytimes.com/2023/12/14/us/rain-storm-forecast-snow.html
+- https://journals.ametsoc.org/view/journals/wcas/16/1/WCAS-D-23-0025.1.xml
+- https://www.simonarmitage.com/wp-content/uploads/Amended-Ark.pdf
 
 ## 4. Critique
 
