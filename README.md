@@ -66,15 +66,15 @@ For the exact instructions that prompt NatLlo according this NLP task sequence (
 ![Screenshot 2023-12-15 at 09 17 50 copy 4](https://github.com/sadkowsk/native-lands-locator/assets/143565317/126d3640-a8ec-4321-93b8-900d5fc04b35)
 
 ## 3. Demonstration
-Currently lacking a dedicated Jupyter Notebook or a Hugging Face Space, please see the following screenshots and links demonstrating NatLlo:
-- Sources used in demo screenshots:
-  - New York Times: https://www.nytimes.com/2023/12/14/us/rain-storm-forecast-snow.html
-  - American Meteorological Society: https://journals.ametsoc.org/view/journals/wcas/16/1/WCAS-D-23-0025.1.xml
-  - Simon Armitage: https://www.simonarmitage.com/wp-content/uploads/Amended-Ark.pdf
+Currently lacking a dedicated Jupyter Notebook or a Hugging Face Space, please watch the NatLlo video tutorial linked below and above. Also consider testing NatLlo yourself using any of the materials linked here:
+- Watch a video walk-through of this repo and a model demonstration here: [youtube link]
+- Try NatLLo yourself here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
+- Demonstration/interaction sample materials:
+  - News article (New York Times): https://www.nytimes.com/2023/12/14/us/rain-storm-forecast-snow.html
+  - Scientific article (American Meteorological Society): https://journals.ametsoc.org/view/journals/wcas/16/1/WCAS-D-23-0025.1.xml
+  - Poem (Simon Armitage): https://www.simonarmitage.com/wp-content/uploads/Amended-Ark.pdf
 
 ![screencapture-chat-openai-g-g-KP0esL5Q8-native-lands-locator-natllo-c-3b3a7951-5a26-4547-b0e9-bc2099c3c565-2023-12-15-14_45_32](https://github.com/sadkowsk/native-lands-locator/assets/143565317/42c10af5-cfaa-4df6-9a3c-59a18e22c622)
-
-- Try NatLLo yourself here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
 
 ## 4. Critique
 
