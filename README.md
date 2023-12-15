@@ -38,9 +38,9 @@ Alternatively, providing GPT-4 Phuong and Hutter's article and instructing it to
 <img width="646" alt="Screenshot 2023-12-14 at 21 05 57" src="https://github.com/sadkowsk/native-lands-locator/assets/143565317/8ff76b29-c4ed-41be-a763-02004f90c941">
 
 ### 2-B. Task Sequence
-Prompt engineering methods[^5][^6]
+In the screenshot here, I instruct NatLlo to surprise me with a random geographic entity. This refers to natural language processing step (vi) below; NatLlo then proceeds to complete steps (i-v) as normal.
 
-See `instructionsprompt.md` above for the exact instructions that prompt following NLP task sequence:
+For the exact instructions that prompt NatLlo following this complete NLP task sequence, see `instructionsprompt.md` above.
 
 ![Screenshot 2023-12-15 at 09 17 50](https://github.com/sadkowsk/native-lands-locator/assets/143565317/ee5d03ec-8726-4716-8b8c-82b7d626f88d)
 
