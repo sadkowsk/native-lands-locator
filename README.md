@@ -30,10 +30,10 @@ NatLlo is based on GPT-4, a decoder-only autoregressive transformer model. Phuon
 > [!NOTE]
 > Algorithm 10's pseudocode specifies the architecture for GPT-2. Phuong and Hutter explain the architecture pseudocode for GPT-3 "is identical except larger, and replaces dense attention in Line 6 by sparse attention, i.e. each token only uses a subset of the full context."
 
-In its technical report for GPT-4, OpenAI also announces it will not disclose its architecture and other aspects of the model:
+In its technical report for GPT-4, OpenAI (2023) also announces why it will not disclose its architecture and other aspects of the model:
 > "Given both the competitive landscape and the safety implications of large-scale models like GPT-4, this report contains no further details about the architecture (including model size), hardware, training compute, dataset construction, training method, or similar."[^4]
 
-As a last resort, instructing GPT-4 to guess its own architecture's formal pseudocode, given Phuong and Hutter's article, returned these assumptions:
+Instructing GPT-4 to guess its own architecture's formal pseudocode, given Phuong and Hutter's article, returned these assumptions:
 <img width="646" alt="Screenshot 2023-12-14 at 21 05 57" src="https://github.com/sadkowsk/native-lands-locator/assets/143565317/8ff76b29-c4ed-41be-a763-02004f90c941">
 
 ### 2-B. Task Sequence
