@@ -81,18 +81,18 @@ For the exact instructions that prompt NatLlo according this NLP task sequence (
 - No fine-tuning
 - No downstream task evaluation
 
-## 4. Implications
+## 5. Implications
 
-### 4-A. Extended Uses
+### 5-A. Extended Uses
 
-### 4-B. Best-Fit Models
+### 5-B. Best-Fit Models
 - RoBERTa (encoder-only)
 - Encoder-decoder
 - F1 score for extractive question answering
 
-### 4-C. Alternative Deployment
+### 5-C. Alternative Deployment
 
-### 4-D. Indigenous Ownership
+### 5-D. Indigenous Ownership
 Further adaptations and deployments of NatLlo should ensure cultural sensitivity and accuracy, respecting consent and representation of native/indigenous communities, safeguarding intellectual property and cultural heritage, and promoting inclusivity and diversity to honor the diverse narratives and perspectives of these groups in a respectful and ethical manner.
 
 [^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
