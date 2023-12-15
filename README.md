@@ -98,13 +98,15 @@ The following screenshot displays the output NatLlo returned after receiving the
 Next steps for further developing NatLlo might involve adapting it to other transformer models and rigorously testing its capabilities with reputable benchmarks, while upholding ethical practices pertaining to the portrayal of indigenous narratives and intellectual property.
 
 ### 5-A. Alternative Models
-- RoBERTa
-- Mistral
+- BERTA, RoBERTa, DistilBERT: 
+- Mistral: 
+- Geospatial transformer models: 
 
-### 5-B. Benchmarking
-- F1 score
-- HumanEval
-- HellaSwag
+### 5-B. Evaluation
+- GeoNames Benchmark:
+- CoNLL-2003 Dataset: 
+- GLUE:
+- F1 Score: 
 
 ### 5-C. Indigenous Ownership
 Further adaptations and deployments of NatLlo should prioritize ensuring cultural sensitivity and accurate representation of indigenous peoples, including but not limited to respecting indigenous intellectual property and cultural heritage, and promoting inclusivity and diversity to honor indigenous perspectives.
