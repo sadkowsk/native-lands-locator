@@ -42,19 +42,25 @@ In the screenshot here, I instruct NatLlo to surprise me with a random geographi
 
 For the exact instructions that prompt NatLlo following this complete NLP task sequence, see `instructionsprompt.md` above.
 
-![Screenshot 2023-12-15 at 09 17 50](https://github.com/sadkowsk/native-lands-locator/assets/143565317/ee5d03ec-8726-4716-8b8c-82b7d626f88d)
-
 **i. Response Customization:** This initial step depends on the user’s input. Responses are formatted based on whether the input includes a request for geographic entity identification, references geographic locations, or falls outside these criteria.
 
 **ii. Named Entity Recognition:** As suggested in (i), NatLlo identifies geographic entities mentioned in the user-provided input.
 
+![Screenshot 2023-12-15 at 09 17 50 copy](https://github.com/sadkowsk/native-lands-locator/assets/143565317/4150c055-7af7-408b-9809-0b0db666598a)
+
 **iii. Information Retrieval:** NatLlo then performs an online search to find information about native/indigenous lands associated with these entities.
 
-**iv. Data Formatting:** The first part of the output includes a structured table containing the geographic entities in (i) and the retrieved native/indigenous entities in (ii).
+**iv. Data Formatting:** The first part of the key output includes a structured table containing the geographic entities in (i) and the retrieved native/indigenous entities in (ii).
+
+![Screenshot 2023-12-15 at 09 17 50 copy 2](https://github.com/sadkowsk/native-lands-locator/assets/143565317/ede525c6-a6e3-471b-b0bc-42f0fafe9765)
 
 **v. Text Summarization:** The second part of NatLlo’s output includes a set of concise descriptive statements—one for each geographic entity and native land pair. In cases where a Wikipedia page exists for a native/indigenous land, it also inserts a hyperlink.
 
+![Screenshot 2023-12-15 at 09 17 50 copy 3](https://github.com/sadkowsk/native-lands-locator/assets/143565317/6a528513-c345-4b6d-ae9e-dd6c542a7407)
+
 **vi. Question Generation:** NatLlo’s third output component involves synthesizing three new research questions based on the user's input and the identified geographic entities and native lands.
+
+![Screenshot 2023-12-15 at 09 17 50 copy 4](https://github.com/sadkowsk/native-lands-locator/assets/143565317/126d3640-a8ec-4321-93b8-900d5fc04b35)
 
 ## 3. Model Card
 - See `modelcard.md` above
