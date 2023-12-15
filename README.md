@@ -40,7 +40,7 @@ Alternatively, providing GPT-4 Phuong and Hutter's article and instructing it to
 ### 2-B. Task Sequence
 Prompt engineering methods[^5][^6]
 
-See *instructionsprompt.md* above for the exact instructions prompt that implements the following NLP task sequence:
+See *instructionsprompt.md* above for the exact instructions that prompt following NLP task sequence:
 
 **i. Named Entity Recognition**
 - This is the first step, where the system identifies geographic entities mentioned in the input text or attachments. 
