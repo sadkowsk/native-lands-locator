@@ -68,6 +68,7 @@ For the exact instructions that prompt NatLlo according this NLP task sequence (
 ## 3. Demonstration
 - Tutorial video screenshots
 - demo.ipynb, code credit to [@darinkist](https://github.com/darinkist/MediumArticle_InteractiveChatGPTSessionsInJupyterNotebook/tree/main)[^3]
+- Sample documents for upload/testing
 
 ## 4. Critique
 
