@@ -42,29 +42,21 @@ Prompt engineering methods[^5][^6]
 
 See *instructionsprompt.md* above for the exact instructions that prompt following NLP task sequence:
 
-**i. Named Entity Recognition**
-- This is the first step, where the system identifies geographic entities mentioned in the input text or attachments. 
+**i. Named Entity Recognition:** This is the first step, where the system identifies geographic entities mentioned in the input text or attachments. 
 
-**ii. Information Retrieval/Search**
-- Once geographic entities are identified, the system needs to search a knowledge base or the web to find information about native/indigenous lands associated with these entities. 
+**ii. Information Retrieval/Search:** Once geographic entities are identified, the system needs to search a knowledge base or the web to find information about native/indigenous lands associated with these entities. 
 
-**iii. Data Extraction and Formatting**
-- Extracting specific information about native/indigenous lands and organizing it into the required table format involves parsing and structuring data. 
+**iii. Data Extraction and Formatting:** Extracting specific information about native/indigenous lands and organizing it into the required table format involves parsing and structuring data. 
 
-**iv. Text Generation and Summarization**
-- For the descriptive statements about the relationship between the geographic entities and native lands, the system needs to generate concise and informative text. 
+**iv. Text Generation and Summarization:** For the descriptive statements about the relationship between the geographic entities and native lands, the system needs to generate concise and informative text. 
 
-**v. Question Generation**
-- The creation of creative research questions based on the user's input and the identified geographic entities and native lands requires understanding the context and synthesizing new, relevant questions. 
+**v. Question Generation:** The creation of creative research questions based on the user's input and the identified geographic entities and native lands requires understanding the context and synthesizing new, relevant questions. 
 
-**vi. Conditional Logic and Decision Making**
-- The system must apply conditional logic to handle different types of user inputs, as described in your prompt. 
+**vi. Conditional Logic and Decision Making:** The system must apply conditional logic to handle different types of user inputs, as described in your prompt. 
 
-**vii. Hyperlink Insertion:**
-- In cases where a Wikipedia page exists for a native/indigenous land, the system needs to accurately insert the correct hyperlink, which involves web searching and hyperlink formatting.
+**vii. Hyperlink Insertion:** In cases where a Wikipedia page exists for a native/indigenous land, the system needs to accurately insert the correct hyperlink, which involves web searching and hyperlink formatting.
 
-**viii. Response Customization:**
-- Adapting the response format based on whether the input includes a request for geographic entity identification, references geographic locations, or falls outside these criteria.
+**viii. Response Customization:** Adapting the response format based on whether the input includes a request for geographic entity identification, references geographic locations, or falls outside these criteria.
 
 ## 3. Model Card
 - See modelcard.md above
