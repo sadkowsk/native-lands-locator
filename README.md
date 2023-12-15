@@ -30,12 +30,16 @@ NatLlo is based on GPT-4, a decoder-only autoregressive transformer model. Phuon
 > [!NOTE]
 > Algorithm 10's pseudocode specifies the architecture for GPT-2. Phuong and Hutter explain the architecture pseudocode for GPT-3 "is identical except larger, and replaces dense attention in Line 6 by sparse attention, i.e. each token only uses a subset of the full context."
 
-In its technical report for GPT-4, OpenAI (2023) also announces why it will not disclose its architecture and other aspects of the model:
+Interestingly though not surprisingly, in its technical report for GPT-4, OpenAI (2023) announces it no longer discloses details on the architectures and other aspects of its models:
 > "Given both the competitive landscape and the safety implications of large-scale models like GPT-4, this report contains no further details about the architecture (including model size), hardware, training compute, dataset construction, training method, or similar."[^4]
 
-Alternatively, providing GPT-4 Phuong and Hutter's article and instructing it to reflect its own architecture in Algorithm 10 returned these speculations:
-
-<img width="646" alt="Screenshot 2023-12-14 at 21 05 57" src="https://github.com/sadkowsk/native-lands-locator/assets/143565317/8ff76b29-c4ed-41be-a763-02004f90c941">
+Nonetheless, it is not unreasonable to guess Algorithm 10 adjusted for GPT-4 might include the following changes:
+- Increased Parameters and Scale: Adjust the size of matrices and dimensions (e.g., embeddings, MLP layers) to reflect a larger model scale.
+- Advanced Attention Mechanisms: Modify Line 6 to incorporate more efficient or adaptive attention mechanisms, potentially beyond sparse attention.
+- Optimized Token and Positional Embeddings: Update the token and positional embedding matrices (Line 2) to reflect advancements in tokenization and embedding techniques.
+- Enhanced Layer Normalization and MLP Activation: Revise the layer normalization and MLP activation processes (Lines 5, 7, 8, and 10) for improved efficiency and effectiveness.
+- Robustness and Bias Mitigation Techniques: Integrate specific steps or parameters designed to address bias and robustness in the model's output, potentially impacting various lines of the algorithm.
+- Algorithmic Efficiency Improvements: Implement changes across the algorithm to enhance computational efficiency, affecting the structure and computation of various layers and attention mechanisms.
 
 ### 2-B. Task Sequence
 In the first screenshot below, I instruct NatLlo to surprise me with a random geographic entity, referring to natural language processing step (i). NatLlo then proceeds to complete steps (i-v) as internally prompted.
