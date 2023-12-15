@@ -95,18 +95,19 @@ The following screenshot displays the output NatLlo returned after receiving the
 - **Evaluation:** current lack of benchmarking NatLlo’s downstream performance limits knowledge of how to strategically improve its efficiency, accuracy, and reliability
 
 ## 5. Implications
+Next steps for further developing NatLlo might involve adapting it to other transformer models and rigorously testing its capabilities with reputable benchmarks, while upholding ethical practices pertaining to the portrayal of indigenous narratives and intellectual property.
 
-### 5-A. Extended Uses
+### 5-A. Alternative Models
+- RoBERTa
+- Mistral
 
-### 5-B. Best-Fit Models
-- RoBERTa (encoder-only)
-- Encoder-decoder
-- F1 score for extractive question answering
+### 5-B. Benchmarking
+- F1 score
+- HumanEval
+- HellaSwag
 
-### 5-C. Alternative Deployment
-
-### 5-D. Indigenous Ownership
-Further adaptations and deployments of NatLlo should prioritize ensuring cultural sensitivity and accurate representation of indigenous peoples, including but not limited to respecting indigenous intellectual property and cultural heritage, and promoting inclusivity and diversity to honor indigenous narratives and perspectives.
+### 5-C. Indigenous Ownership
+Further adaptations and deployments of NatLlo should prioritize ensuring cultural sensitivity and accurate representation of indigenous peoples, including but not limited to respecting indigenous intellectual property and cultural heritage, and promoting inclusivity and diversity to honor indigenous perspectives.
 
 [^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
 
