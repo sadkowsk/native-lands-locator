@@ -74,6 +74,8 @@ Currently lacking a dedicated Jupyter Notebook or a Hugging Face Space, please w
   - Scientific article (American Meteorological Society): https://journals.ametsoc.org/view/journals/wcas/16/1/WCAS-D-23-0025.1.xml
   - Poem (Simon Armitage): https://www.simonarmitage.com/wp-content/uploads/Amended-Ark.pdf
 
+The following screenshot displays the output NatLlo returned after receiving the poem "Ark" by Simon Armitage:
+
 ![screencapture-chat-openai-g-g-KP0esL5Q8-native-lands-locator-natllo-c-3b3a7951-5a26-4547-b0e9-bc2099c3c565-2023-12-15-14_45_32](https://github.com/sadkowsk/native-lands-locator/assets/143565317/42c10af5-cfaa-4df6-9a3c-59a18e22c622)
 
 ## 4. Critique
