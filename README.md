@@ -13,7 +13,7 @@ Popular references to geographic locations rarely acknowledge these locations' b
 - Research: no comparable fine-tuned models currently on Hugging Face or elsewhere
 - Development: adaption for other models; specification of issue areas (i.e., climate impact on indigenous lands, underresourced languages, etc.)
 
-### 1-C. Ethical Considerations
+### 1-C. Terms and Ethics
 This custom GPT operates at the intersection of geographic information systems, indigenous studies, and natural language processing. The *Indigenous Protocol and Artificial Intelligence Position Paper* by the Indigenous Protocol and Artificial Intelligence Working Group (2020) helps to define "indigenous":
 
 > “The emerging identity of “indigenous peoples” has been adopted as an umbrella term by Indigenous leaders in international arenas, such as the United Nations, while simultaneously opposing a rigorous definition. The use of this term reflects the need for a collective label that supersedes the boundaries of nationstates. It encompasses over 370 million Indigenous peoples from disparate geographical and political backgrounds who, despite distinct cultural differences, share common experiences resulting from the relationship between the Indigenous peoples and present-day nation states."[^1]
