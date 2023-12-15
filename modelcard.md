@@ -53,5 +53,5 @@ Use the code below to get started with the model.
 
 {{ citation_apa | default("[More Information Needed]", true)}}
 
-## Model Card Author, Contact
+## Model Card Author
 
