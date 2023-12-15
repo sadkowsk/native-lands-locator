@@ -32,7 +32,7 @@ NatLlo is based on GPT-4, a decoder-only autoregressive transformer model. Phuon
 > Algorithm 10's pseudocode specifies the architecture for GPT-2. Phuong and Hutter explain the architecture pseudocode for GPT-3 "is identical except larger, and replaces dense attention in Line 6 by sparse attention, i.e. each token only uses a subset of the full context."
 
 Interestingly though not surprisingly, in its technical report for GPT-4, OpenAI (2023) announces it no longer discloses details on the architectures and other aspects of its models:
-> "Given both the competitive landscape and the safety implications of large-scale models like GPT-4, this report contains no further details about the architecture (including model size), hardware, training compute, dataset construction, training method, or similar."[^4]
+> "Given both the competitive landscape and the safety implications of large-scale models like GPT-4, this report contains no further details about the architecture (including model size), hardware, training compute, dataset construction, training method, or similar."[^3]
 
 As a guess, Algorithm 10 adjusted for GPT-4 might include the following changes:
 - **Line 2:** updated token and positional embedding matrices
@@ -70,9 +70,9 @@ Currently lacking a dedicated Jupyter Notebook or a Hugging Face Space, please w
 - Watch a video walk-through of this repo and a model demonstration here: [youtube link]
 - Try NatLLo yourself here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
 - Demonstration/interaction sample materials:
-  - News article (New York Times): https://www.nytimes.com/2023/12/14/us/rain-storm-forecast-snow.html
-  - Scientific article (American Meteorological Society): https://journals.ametsoc.org/view/journals/wcas/16/1/WCAS-D-23-0025.1.xml
-  - Poem (Simon Armitage): https://www.simonarmitage.com/wp-content/uploads/Amended-Ark.pdf
+  - News article (New York Times): https://www.nytimes.com/2023/12/14/us/rain-storm-forecast-snow.html[^4]
+  - Scientific article (American Meteorological Society): https://journals.ametsoc.org/view/journals/wcas/16/1/WCAS-D-23-0025.1.xml[^5]
+  - Poem (Simon Armitage): https://www.simonarmitage.com/wp-content/uploads/Amended-Ark.pdf[^6]
 
 The following screenshot displays the output NatLlo returned after receiving the poem "Ark" by Simon Armitage:
 
@@ -108,12 +108,10 @@ Further adaptations and deployments of NatLlo should prioritize ensuring cultura
 
 [^2]: M. Phuong and M. Hutter, “Formal Algorithms for Transformers.” arXiv, Jul. 19, 2022. Accessed: Dec. 14, 2023. [Online]. Available: http://arxiv.org/abs/2207.09238
 
-[^3]: K. Rink, “Run Interactive Sessions With ChatGPT In Jupyter Notebook,” Medium. Accessed: Dec. 14, 2023. [Online]. Available: https://towardsdatascience.com/run-interactive-sessions-with-chatgpt-in-jupyter-notebook-87e00f2ee461
+[^3]: OpenAI, “GPT-4 Technical Report,” arXiv.org. Accessed: Dec. 14, 2023. [Online]. Available: https://arxiv.org/abs/2303.08774v3
 
-[^4]: OpenAI, “GPT-4 Technical Report,” arXiv.org. Accessed: Dec. 14, 2023. [Online]. Available: https://arxiv.org/abs/2303.08774v3
+[^4]: .
 
-[^5]: L. Tunstall, L. von Werra, and T. Wolf, “Natural Language Processing with Transformers, Revised Edition,” O’Reilly Media, Inc. Accessed: Dec. 14, 2023. [Online]. Available: https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
+[^5]: .
 
-[^6]: Hugging Face, “Tasks,” Hugging Face. Accessed: Dec. 14, 2023. [Online]. Available: https://huggingface.co/tasks
-
-[^7]: J. White, “Prompt Engineering for ChatGPT,” Coursera. [Online]. Available: https://www.coursera.org/learn/prompt-engineering
+[^6]: .
