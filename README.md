@@ -23,7 +23,7 @@ Please refer to the *Indigenous Protocol and Artificial Intelligence Position Pa
 ## 2. High-Level Approach
 
 ### 2-A. GPT Architecture
-"Formal Algorithms for Transformers" [^2]
+"Formal Algorithms for Transformers"[^2]
 
 <img width="855" alt="Screenshot 2023-12-14 at 11 14 18" src="https://github.com/sadkowsk/native-lands-locator/assets/143565317/6910c003-d493-4024-8d18-83046cca46b6">
 
@@ -76,7 +76,9 @@ Further adaptations and deployments of NatLlo should ensure cultural sensitivity
 
 ## 9. Resources
 [^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
-[^2] M. Phuong and M. Hutter, “Formal Algorithms for Transformers.” arXiv, Jul. 19, 2022. Accessed: Oct. 22, 2023. [Online]. Available: http://arxiv.org/abs/2207.09238
+
+[^2]: M. Phuong and M. Hutter, “Formal Algorithms for Transformers.” arXiv, Jul. 19, 2022. Accessed: Oct. 22, 2023. [Online]. Available: http://arxiv.org/abs/2207.09238
+
 - Other research articles
 - Hugging Face course
 - Coursera prompt engineering course
