@@ -68,36 +68,34 @@ For the exact instructions that prompt NatLlo according this NLP task sequence (
 - See `modelcard.md` above
 - Also see https://cdn.openai.com/papers/gpt-4-system-card.pdf
 
-## 4. Dataset Fine-Tuning
-
-## 5. Downstream Task Evaluation
-- F1 score for extractive question answering
-
-## 6. Demonstration
+## 4. Demonstration
 - Tutorial video screenshots
 - demo.ipynb, code credit to [@darinkist](https://github.com/darinkist/MediumArticle_InteractiveChatGPTSessionsInJupyterNotebook/tree/main)[^3]
 
-## 7. Critique
+## 5. Critique
 
-### 7-A. Strengths
+### 5-A. Strengths
 - Contribution
 
-### 7-B. Limitations
+### 5-B. Limitations
 - Efficiency/latency
 - Token cost
 - Model appropriateness
+- No fine-tuning
+- No downstream task evaluation
 
-## 8. Implications
+## 6. Implications
 
-### 8-A. Extended Uses
+### 6-A. Extended Uses
 
-### 8-B. Best-Fit Models
+### 6-B. Best-Fit Models
 - RoBERTa (encoder-only)
 - Encoder-decoder
+- F1 score for extractive question answering
 
-### 8-C. Alternative Deployment
+### 6-C. Alternative Deployment
 
-### 8-D. Indigenous Ownership
+### 6-D. Indigenous Ownership
 Further adaptations and deployments of NatLlo should ensure cultural sensitivity and accuracy, respecting consent and representation of native/indigenous communities, safeguarding intellectual property and cultural heritage, and promoting inclusivity and diversity to honor the diverse narratives and perspectives of these groups in a respectful and ethical manner.
 
 [^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
