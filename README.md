@@ -43,7 +43,7 @@ As a guess, Algorithm 10 adjusted for GPT-4 might include the following changes:
 ### 2-B. Task Sequence
 In the first screenshot below, I instruct NatLlo to surprise me with a random geographic entity, referring to natural language processing step (i). NatLlo then proceeds to complete steps (i-v) as internally prompted.
 
-For the exact instructions that prompt NatLlo according this NLP task sequence (i-vi), see `instructionsprompt.md` above.
+For the exact instructions that prompt NatLlo according this NLP task sequence (i-vi), see `instructionsprompt.md` above and view as code.
 
 **i. Response Customization:** This initial step depends on the user’s input. Responses are formatted based on whether the input includes a request for geographic entity identification, references geographic locations, or falls outside these criteria.
 
