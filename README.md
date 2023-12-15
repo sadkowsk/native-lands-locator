@@ -1,5 +1,6 @@
 # Native Lands Locator (NatLLo)
 Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your inputs' geographic references with nearby native and indigenous lands. After identifying geographic entities and relating them to nearby native lands, it then explores the cultural and historical connections of the two. NatLlo has implications for further development using other models and approaches.
+- See `modelcard.md` above for the mock Hugging Face model card.
 - Watch a video walk-through of this repo and a model demonstration here: [youtube link]
 - Try NatLLo yourself here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
 
@@ -64,38 +65,34 @@ For the exact instructions that prompt NatLlo according this NLP task sequence (
 
 ![Screenshot 2023-12-15 at 09 17 50 copy 4](https://github.com/sadkowsk/native-lands-locator/assets/143565317/126d3640-a8ec-4321-93b8-900d5fc04b35)
 
-## 3. Model Card
-- See `modelcard.md` above
-- Also see https://cdn.openai.com/papers/gpt-4-system-card.pdf
-
-## 4. Demonstration
+## 3. Demonstration
 - Tutorial video screenshots
 - demo.ipynb, code credit to [@darinkist](https://github.com/darinkist/MediumArticle_InteractiveChatGPTSessionsInJupyterNotebook/tree/main)[^3]
 
-## 5. Critique
+## 4. Critique
 
-### 5-A. Strengths
+### 4-A. Strengths
 - Contribution
 
-### 5-B. Limitations
+### 4-B. Limitations
 - Efficiency/latency
 - Token cost
 - Model appropriateness
 - No fine-tuning
 - No downstream task evaluation
 
-## 6. Implications
+## 4. Implications
 
-### 6-A. Extended Uses
+### 4-A. Extended Uses
 
-### 6-B. Best-Fit Models
+### 4-B. Best-Fit Models
 - RoBERTa (encoder-only)
 - Encoder-decoder
 - F1 score for extractive question answering
 
-### 6-C. Alternative Deployment
+### 4-C. Alternative Deployment
 
-### 6-D. Indigenous Ownership
+### 4-D. Indigenous Ownership
 Further adaptations and deployments of NatLlo should ensure cultural sensitivity and accuracy, respecting consent and representation of native/indigenous communities, safeguarding intellectual property and cultural heritage, and promoting inclusivity and diversity to honor the diverse narratives and perspectives of these groups in a respectful and ethical manner.
 
 [^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
