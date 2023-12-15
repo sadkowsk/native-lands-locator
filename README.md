@@ -59,7 +59,7 @@ See `instructionsprompt.md` above for the exact instructions that prompt followi
 **viii. Response Customization:** Adapting the response format based on whether the input includes a request for geographic entity identification, references geographic locations, or falls outside these criteria.
 
 ## 3. Model Card
-- See modelcard.md above
+- See `modelcard.md` above
 - Also see https://cdn.openai.com/papers/gpt-4-system-card.pdf
 
 ## 4. Dataset Fine-Tuning
