@@ -9,7 +9,7 @@ Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your
 Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your inputs' geographic references with nearby native and indigenous lands. After identifying geographic entities and relating them to nearby native lands, it then explores the cultural and historical connections of the two. NatLlo has implications for further development using other models and approaches.
 
 - **Developed by:** Karol Sadkowski
-- **Model type:** 
+- **Model type:** Named Entity Recognition; Information Retrieval/Search
 - **Language(s) (NLP):** English
 - **License:** MIT
 - **Finetuned from model:** GPT-4
