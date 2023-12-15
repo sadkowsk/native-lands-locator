@@ -114,4 +114,4 @@ Further adaptations and deployments of NatLlo should prioritize ensuring cultura
 
 [^5]: R. Oelviani et al., “Climate Change Driving Salinity: An Overview of Vulnerabilities, Adaptations, and Challenges for Indonesian Agriculture,” Weather, Climate, and Society, vol. 16, no. 1, pp. 29–49, Dec. 2023, doi: 10.1175/WCAS-D-23-0025.1.
 
-[^6]: S. Armitage, Ark. 2019.
+[^6]: S. Armitage, Ark. 2019. Accessed: Dec. 15, 2023. [Online]. Available: https://www.simonarmitage.com/wp-content/uploads/Amended-Ark.pdf
