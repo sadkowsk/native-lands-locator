@@ -102,7 +102,7 @@ The following screenshot displays the output NatLlo returned after receiving the
 ### 5-C. Alternative Deployment
 
 ### 5-D. Indigenous Ownership
-Further adaptations and deployments of NatLlo should ensure cultural sensitivity and accuracy, respecting consent and representation of native/indigenous communities, safeguarding intellectual property and cultural heritage, and promoting inclusivity and diversity to honor the diverse narratives and perspectives of these groups in a respectful and ethical manner.
+Further adaptations and deployments of NatLlo should prioritize ensuring cultural sensitivity and accurate representation of indigenous peoples, including but not limited to respecting indigenous intellectual property and cultural heritage, and promoting inclusivity and diversity to honor indigenous narratives and perspectives.
 
 [^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
 
