@@ -61,7 +61,7 @@ See *instructionsprompt.md* above for the exact instructions prompt that impleme
 
 ## 6. Demonstration
 - Tutorial video screenshots
-- demo.ipynb, code credit to [@darinkist](https://github.com/darinkist/MediumArticle_InteractiveChatGPTSessionsInJupyterNotebook/tree/main)_[^3]
+- demo.ipynb, code credit to [@darinkist](https://github.com/darinkist/MediumArticle_InteractiveChatGPTSessionsInJupyterNotebook/tree/main)[^3]
 
 ## 7. Critique
 
