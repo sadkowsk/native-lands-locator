@@ -23,7 +23,7 @@ Please refer to the *Indigenous Protocol and Artificial Intelligence Position Pa
 ## 2. High-Level Approach
 
 ### 2-A. GPT Architecture
-"Formal Algorithms for Transformers"[^2]
+NatLlo is based on GPT-4, a decoder-only autoregressive transformer model. Phuong and Hutter (2022) provide the decoder-only architecture pseudocode in "Formal Algorithms for Transformers,"[^2] screenshot below:
 
 <img width="855" alt="Screenshot 2023-12-14 at 11 14 18" src="https://github.com/sadkowsk/native-lands-locator/assets/143565317/6910c003-d493-4024-8d18-83046cca46b6">
 
