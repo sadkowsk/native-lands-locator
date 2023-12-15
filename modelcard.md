@@ -21,13 +21,23 @@ Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your
 
 ## Uses
 
-### Direct Use
+### Direct Uses
 
-<!-- This section is for the model use without fine-tuning or plugging into a larger ecosystem/app. -->
+- Identifying geographic entities in text and mapping them to corresponding native/indigenous lands
+- Facilitating educational and research activities focused on indigenous studies and geographical history
+- Enabling content creators and researchers to acknowledge and integrate native/indigenous perspectives and histories in their work
+- Enhancing cultural awareness and sensitivity in broader geographical and historical discussions
+- Supporting diversity and inclusivity initiatives by providing insights into the historical presence and contributions of indigenous communities
+- Aiding in the development of educational materials that promote a more comprehensive understanding of local and global histories
 
-### Out-of-Scope Use
+### Out-of-Scope Uses
 
-<!-- This section addresses misuse, malicious use, and uses that the model will not work well for. -->
+- Not intended for navigational or legal purposes regarding land ownership or territorial disputes
+- Unsuitable for real-time location-based services or emergency response coordination
+- Not designed for commercial exploitation of native/indigenous cultural knowledge or heritage
+- Inappropriate for determining political boundaries or influencing governmental policy decisions
+- Should not be used as a sole source for critical decision-making in land management or environmental conservation
+- Not applicable for personal identification or tracking of individuals within geographic regions
 
 ## Bias, Risks, and Limitations
 
