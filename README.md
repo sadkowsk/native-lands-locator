@@ -88,6 +88,7 @@ The following screenshot displays the output NatLlo returned after receiving the
 - Token cost
 - Model appropriateness
 - No fine-tuning
+- Inconsistent outputs
 - No downstream task evaluation
 
 ## 5. Implications
