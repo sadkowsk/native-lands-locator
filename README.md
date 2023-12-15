@@ -66,9 +66,8 @@ For the exact instructions that prompt NatLlo according this NLP task sequence (
 ![Screenshot 2023-12-15 at 09 17 50 copy 4](https://github.com/sadkowsk/native-lands-locator/assets/143565317/126d3640-a8ec-4321-93b8-900d5fc04b35)
 
 ## 3. Demonstration
-- Tutorial video screenshots
-- demo.ipynb, code credit to [@darinkist](https://github.com/darinkist/MediumArticle_InteractiveChatGPTSessionsInJupyterNotebook/tree/main)[^3]
-- Sample documents for upload/testing
+- Interface/output screenshots
+- Sample docs folder for upload/testing
 
 ## 4. Critique
 
