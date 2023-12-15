@@ -9,9 +9,9 @@ Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your
 Popular references to geographic locations rarely acknowledge these locations' belonging, past or present, to native and indigenous peoples. NatLlo enables users to explore the potential relationships between their input materials with native and indigenous peoples and their lands. In doing so, it aims to counter their historical invisibility and marginalization, fostering appreciation of their cultural and ecological significance. By linking the geographic entities referenced in users' materials to nearby native lands, NatLlo promotes more locally inclusive considerations of global human diversity.
 
 ### 1-B. Contributions
-- Use Cases: place-based education; project research and drafting
-- Research: no comparable fine-tuned models currently on Hugging Face or elsewhere
-- Development: adaption for other models; specification of issue areas (i.e., climate impact on indigenous lands, underresourced languages, etc.)
+- *Use Cases:* place-based education; project research and drafting
+- *Research:* no comparable fine-tuned models currently on Hugging Face or elsewhere
+- *Development:* adaption for other models; specification of issue areas (i.e., climate impact on indigenous lands, underresourced languages, etc.)
 
 ### 1-C. Terms and Ethics
 This custom GPT operates at the intersection of geographic information systems, indigenous studies, and natural language processing. The *Indigenous Protocol and Artificial Intelligence Position Paper* by the Indigenous Protocol and Artificial Intelligence Working Group (2020) helps to explain the complexity of the term "indigenous":
@@ -20,7 +20,7 @@ This custom GPT operates at the intersection of geographic information systems, 
 
 Please refer to the *Indigenous Protocol and Artificial Intelligence Position Paper* for further guidance on ethical considerations when engaging native and indigenous peoples in AI.
 
-## 2. High-Level Approach
+## 2. Approach
 
 ### 2-A. GPT Architecture
 NatLlo is based on GPT-4, a decoder-only autoregressive transformer model. Phuong and Hutter (2022) provide the decoder-only architecture pseudocode in "Formal Algorithms for Transformers,"[^2] screenshot below:
