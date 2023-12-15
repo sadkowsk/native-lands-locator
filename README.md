@@ -39,7 +39,7 @@ Likewise, based on GPT-4's technical report[^4], the formal pseudocode in Algori
 - *Algorithmic Efficiency Improvements:* Implement changes across the algorithm to enhance computational efficiency, affecting the structure and computation of various layers and attention mechanisms.
 
 ### 2-B. Task Sequence
-Prompt engineering methods
+Prompt engineering methods[^5][^6]
 
 See *instructionsprompt.md* above for the exact instructions prompt that implements the following NLP task sequence:
 
@@ -96,4 +96,6 @@ Further adaptations and deployments of NatLlo should ensure cultural sensitivity
 
 [^5]: L. Tunstall, L. von Werra, and T. Wolf, “Natural Language Processing with Transformers, Revised Edition,” O’Reilly Media, Inc. Accessed: Dec. 14, 2023. [Online]. Available: https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
 
-[^6]: J. White, “Prompt Engineering for ChatGPT,” Coursera. [Online]. Available: https://www.coursera.org/learn/prompt-engineering
+[^6] Hugging Face, “Tasks,” Hugging Face. Accessed: Dec. 14, 2023. [Online]. Available: https://huggingface.co/tasks
+
+[^7]: J. White, “Prompt Engineering for ChatGPT,” Coursera. [Online]. Available: https://www.coursera.org/learn/prompt-engineering
