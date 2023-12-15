@@ -86,11 +86,6 @@ See *instructionsprompt.md* above for the exact instructions prompt that impleme
 ### 8-D. Indigenous Ownership
 Further adaptations and deployments of NatLlo should ensure cultural sensitivity and accuracy, respecting consent and representation of native/indigenous communities, safeguarding intellectual property and cultural heritage, and promoting inclusivity and diversity to honor the diverse narratives and perspectives of these groups in a respectful and ethical manner.
 
-## 9. Helpful Resources
-- Hugging Face course
-- Coursera prompt engineering course
-- NLPT textbook
-
 [^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
 
 [^2]: M. Phuong and M. Hutter, “Formal Algorithms for Transformers.” arXiv, Jul. 19, 2022. Accessed: Dec. 14, 2023. [Online]. Available: http://arxiv.org/abs/2207.09238
@@ -98,3 +93,5 @@ Further adaptations and deployments of NatLlo should ensure cultural sensitivity
 [^3]: K. Rink, “Run Interactive Sessions With ChatGPT In Jupyter Notebook,” Medium. Accessed: Dec. 14, 2023. [Online]. Available: https://towardsdatascience.com/run-interactive-sessions-with-chatgpt-in-jupyter-notebook-87e00f2ee461
 
 [^4]: OpenAI, “GPT-4 Technical Report,” arXiv.org. Accessed: Dec. 14, 2023. [Online]. Available: https://arxiv.org/abs/2303.08774v3
+
+[^5]: L. Tunstall, L. von Werra, and T. Wolf, “Natural Language Processing with Transformers, Revised Edition,” O’Reilly Media, Inc. Accessed: Dec. 14, 2023. [Online]. Available: https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
