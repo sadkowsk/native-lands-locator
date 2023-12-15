@@ -30,7 +30,7 @@ NatLlo is based on GPT-4, a decoder-only autoregressive transformer model. Phuon
 > [!NOTE]
 > Algorithm 10's pseudocode specifies the architecture for GPT-2. Phuong and Hutter explain the architecture pseudocode for GPT-3 "is identical except larger, and replaces dense attention in Line 6 by sparse attention, i.e. each token only uses a subset of the full context."
 
-Likewise, based on GPT-4's technical report_[^4], the formal pseudocode in Algorithm 10 would incorporate the additional changes to reflect GPT-4's architecture:
+Likewise, based on GPT-4's technical report[^4], the formal pseudocode in Algorithm 10 would incorporate the additional changes to reflect GPT-4's architecture:
 - *Increased Parameters and Scale:* Adjust the size of matrices and dimensions (e.g., embeddings, MLP layers) to reflect a larger model scale.
 - *Advanced Attention Mechanisms:* Modify Line 6 to incorporate more efficient or adaptive attention mechanisms, potentially beyond sparse attention.
 - *Optimized Token and Positional Embeddings:* Update the token and positional embedding matrices (Line 2) to reflect advancements in tokenization and embedding techniques.
