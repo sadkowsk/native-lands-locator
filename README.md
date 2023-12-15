@@ -54,6 +54,8 @@ See `instructionsprompt.md` above for the exact instructions that prompt followi
 
 **v. Question Generation:** NatLlo’s third output component involves synthesizing three new research questions based on the user's input and the identified geographic entities and native lands.
 
+**vi. Response Customization:** This step depends on the user’s input. Responses are formatted based on whether the input includes a request for geographic entity identification, references geographic locations, or falls outside these criteria.
+
 ## 3. Model Card
 - See `modelcard.md` above
 - Also see https://cdn.openai.com/papers/gpt-4-system-card.pdf
