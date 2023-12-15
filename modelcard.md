@@ -34,8 +34,4 @@ NatLlo is not designed for legal purposes, such as determining land ownership, r
 - **Ethical Usage:** Employ NatLlo responsibly, avoiding contexts where misinterpretation could lead to cultural insensitivity or misinformation.
 
 ## Model Card Author
-Karol Sadkowski
-
-GitHub: @sadkowsk
-
-Hugging Face: @sadkowsk
+Karol Sadkowski (GitHub @sadkowsk; Hugging Face @sadkowsk)
