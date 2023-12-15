@@ -44,17 +44,17 @@ For the exact instructions that prompt NatLlo following this complete NLP task s
 
 ![Screenshot 2023-12-15 at 09 17 50](https://github.com/sadkowsk/native-lands-locator/assets/143565317/ee5d03ec-8726-4716-8b8c-82b7d626f88d)
 
-**i. Named Entity Recognition:** This is the first step, where NatLlo identifies geographic entities mentioned in the user-provided input.
+**i. Response Customization:** This initial step depends on the user’s input. Responses are formatted based on whether the input includes a request for geographic entity identification, references geographic locations, or falls outside these criteria.
 
-**ii. Information Retrieval:** NatLlo then performs an online search to find information about native/indigenous lands associated with these entities.
+**ii. Named Entity Recognition:** As suggested in (i), NatLlo identifies geographic entities mentioned in the user-provided input.
 
-**iii. Data Formatting:** The first part of the output includes a structured table containing the geographic entities in (i) and the retrieved native/indigenous entities in (ii).
+**iii. Information Retrieval:** NatLlo then performs an online search to find information about native/indigenous lands associated with these entities.
 
-**iv. Text Summarization:** The second part of NatLlo’s output includes a set of concise descriptive statements—one for each geographic entity and native land pair. In cases where a Wikipedia page exists for a native/indigenous land, it also inserts a hyperlink.
+**iv. Data Formatting:** The first part of the output includes a structured table containing the geographic entities in (i) and the retrieved native/indigenous entities in (ii).
 
-**v. Question Generation:** NatLlo’s third output component involves synthesizing three new research questions based on the user's input and the identified geographic entities and native lands.
+**v. Text Summarization:** The second part of NatLlo’s output includes a set of concise descriptive statements—one for each geographic entity and native land pair. In cases where a Wikipedia page exists for a native/indigenous land, it also inserts a hyperlink.
 
-**vi. Response Customization:** This step depends on the user’s input. Responses are formatted based on whether the input includes a request for geographic entity identification, references geographic locations, or falls outside these criteria.
+**vi. Question Generation:** NatLlo’s third output component involves synthesizing three new research questions based on the user's input and the identified geographic entities and native lands.
 
 ## 3. Model Card
 - See `modelcard.md` above
