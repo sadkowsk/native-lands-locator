@@ -31,15 +31,18 @@ NatLlo is not designed for legal purposes, such as determining land ownership, r
 
 ## Bias, Risks, and Limitations
 
-<!-- This section is meant to convey both technical and sociotechnical limitations. -->
+- **Bias:** The model may reflect biases from its training data, potentially leading to uneven representation or inaccuracies in identifying native/indigenous lands.
+- **Risks:** Misuse or misinterpretation of the model's outputs could result in misinformation or harm to indigenous communities.
+- **Limitations:** The model's recognition of geographic entities and indigenous territories might not be exhaustive or fully up-to-date, and it is not intended for legal or real-time decision-making purposes.
 
 ### Recommendations
 
-<!-- This section is meant to convey recommendations with respect to the bias, risk, and technical limitations. -->
+- **Cross-Verification:** Users should cross-verify model outputs with authoritative sources for accuracy and up-to-date information.
+- **Cultural Consultation:** Engage with indigenous experts or communities when interpreting data related to their lands and histories.
+- **Ethical Usage:** Employ the model responsibly, avoiding contexts where misinterpretation could lead to cultural insensitivity or misinformation.
+- **Continuous Learning:** Update the model regularly with diverse and inclusive datasets to reduce biases and improve representation.
 
 ## How to Get Started with the Model
-
-Use the code below to get started with the model.
 
 ## Citation
 
