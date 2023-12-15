@@ -61,6 +61,7 @@ See *instructionsprompt.md* above for the exact instructions prompt that impleme
 
 ## 6. Demonstration
 - Tutorial video screenshots
+- demo.ipynb, code credit to [@darinkist](https://github.com/darinkist/MediumArticle_InteractiveChatGPTSessionsInJupyterNotebook/tree/main)_[^3]
 
 ## 7. Critique
 
@@ -89,6 +90,8 @@ Further adaptations and deployments of NatLlo should ensure cultural sensitivity
 [^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
 
 [^2]: M. Phuong and M. Hutter, “Formal Algorithms for Transformers.” arXiv, Jul. 19, 2022. Accessed: Oct. 22, 2023. [Online]. Available: http://arxiv.org/abs/2207.09238
+
+[^3]: K. Rink, “Run Interactive Sessions With ChatGPT In Jupyter Notebook,” Medium. Accessed: Dec. 14, 2023. [Online]. Available: https://towardsdatascience.com/run-interactive-sessions-with-chatgpt-in-jupyter-notebook-87e00f2ee461
 
 - Other research articles
 - Hugging Face course
