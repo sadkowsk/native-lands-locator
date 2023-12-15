@@ -93,15 +93,13 @@ The following screenshot displays the output NatLlo returned after receiving the
 - **Adaptability to User Feedback:** The system can potentially adapt and respond to user feedback, enhancing its effectiveness and user experience over time.
 
 ### 4-B. Limitations
-- **Biases:** There's a risk of biases in the AI models leading to unfair or biased interpretations, alongside sensitive ethical considerations in using AI to discuss indigenous lands.
-- **Errors:** A risk of providing incorrect information or being misinterpreted by users, especially in complex or ambiguous scenarios.
-- **Knowledge Cutoff:** ChatGPT-4's knowledge cut-off and dependency on training data can limit the currency and breadth of information in the context of NatLLo.
-- **Latency:** Potential issues with response times and processing efficiency, particularly when handling large or complex queries.
-- **Token Cost:** The cost associated with processing large inputs or generating extensive outputs, which could be a factor in scalability and practical usage.
-- **Model Appropriateness:** The general-purpose nature of ChatGPT-4 may not always align perfectly with the specific requirements of NatLLo, especially in highly specialized cultural or historical contexts.
-- **Dataset Fine-Tuning:** The lack of fine-tuning on specific datasets for NatLLo's unique application could limit the model's effectiveness in certain areas.
-- **Inconsistent Outputs:** Variability in the model's responses, potentially leading to inconsistencies in information provided over time or different instances.
-- **Downstream Task Evaluation:** As of yet, there may not be comprehensive evaluations of the model's performance on specific downstream tasks related to NatLLo's objectives, which could affect its reliability and effectiveness in practical applications.
+- **Biases:** risk of biases in GPT-4’s training dataset leading to unfair interpretations of indigenous peoples
+- **Errors:** risk of GPT-4 providing incorrect information, especially when responding to complex requests
+- **Knowledge Cutoff:** ChatGPT-4's Jan. 2022 knowledge cutoff can limit the currency and breadth of information it provides
+- **Latency:** slow processing efficiency with documents uploaded to custom GPT’s knowledge base leads to time-outs
+- **Model Appropriateness:** ChatGPT-4’s general-purpose nature not conducive to accurately and reliably returning NatLlo’s multi-part output
+- **Fine-Tuning:** current lack of fine-tuning NatLlo on specific datasets leaves it dependent on GPT-4’s original training, likely limiting its effectiveness in certain downstream tasks
+- **Evaluation:** current lack of benchmarking NatLlo’s downstream performance limits knowledge of how to strategically improve its efficiency, accuracy, and reliability
 
 ## 5. Implications
 
