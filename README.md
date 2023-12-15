@@ -81,16 +81,9 @@ The following screenshot displays the output NatLlo returned after receiving the
 ## 4. Critique
 
 ### 4-A. Strengths
-- **Advanced Language Processing:** Incorporates ChatGPT-4's advanced language understanding and generation with NatLLo's focus on geographic and cultural contexts.
-- **Cultural and Historical Insight:** Enhanced awareness of cultural and historical connections, leveraging ChatGPT-4's extensive knowledge base.
-- **Customization and Integration Potential:** High potential for customization and integration, allowing tailored applications in various fields.
-- **Multilingual and Contextual Awareness:** Ability to engage in multiple languages and maintain conversational context, facilitating culturally sensitive interactions.
-- **Educational and Awareness Tool:** Serves as a powerful tool for education and increasing awareness about native lands and cultures.
-- **Scalability and Flexibility:** ChatGPT-4's architecture allows for scalability, making it suitable for applications ranging from individual use to large-scale deployments.
-- **Real-time Interaction:** Capable of real-time interaction, providing immediate responses and engaging in dynamic conversations.
-- **Diverse Application Range:** Suitable for a wide range of applications, from casual inquiries to more structured educational and research purposes.
-- **Continual Learning and Improvement Potential:** The AI model underlying NatLLo has the potential for continual learning and improvement over time, especially as it is exposed to more data and use cases.
-- **Adaptability to User Feedback:** The system can potentially adapt and respond to user feedback, enhancing its effectiveness and user experience over time.
+- **Advanced Language Processing:** GPT-4's autoregressive decoder architecture, training, and input context length of 8,192 tokens effectively facilitate the language reasoning and generation required in NatLLo's latter output
+- **Continual Improvement:** as a custom GPT, NatLlo’s capabilities self-update alongside updates to ChatGPT as it is exposed to more data and use cases
+- **Accessibility:** GPT-4’s increasing multimodal capabilities bear positive implications for users requiring assistive technologies
 
 ### 4-B. Limitations
 - **Biases:** risk of biases in GPT-4’s training dataset leading to unfair interpretations of indigenous peoples
