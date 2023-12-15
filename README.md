@@ -18,7 +18,7 @@ This custom GPT operates at the intersection of geographic information systems, 
 
 > “The emerging identity of 'indigenous peoples' has been adopted as an umbrella term by Indigenous leaders in international arenas, such as the United Nations, while simultaneously opposing a rigorous definition. The use of this term reflects the need for a collective label that supersedes the boundaries of nationstates. It encompasses over 370 million Indigenous peoples from disparate geographical and political backgrounds who, despite distinct cultural differences, share common experiences resulting from the relationship between the Indigenous peoples and present-day nation states."[^1]
 
-Please refer to the *Indigenous Protocol and Artificial Intelligence Position Paper* for further guidance on ethical considerations for engaging native and indigenous peoples in the AI field.
+Please refer to the *Indigenous Protocol and Artificial Intelligence Position Paper* for further guidance on ethical considerations when engaging native and indigenous peoples in AI.
 
 ## 2. High-Level Approach
 
