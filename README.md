@@ -42,6 +42,8 @@ Prompt engineering methods[^5][^6]
 
 See `instructionsprompt.md` above for the exact instructions that prompt following NLP task sequence:
 
+![Screenshot 2023-12-15 at 09 17 50](https://github.com/sadkowsk/native-lands-locator/assets/143565317/ee5d03ec-8726-4716-8b8c-82b7d626f88d)
+
 **i. Named Entity Recognition:** This is the first step, where NatLlo identifies geographic entities mentioned in the user-provided input.
 
 **ii. Information Retrieval:** NatLlo then performs an online search to find information about native/indigenous lands associated with these entities.
