@@ -81,7 +81,7 @@ The following screenshot displays the output NatLlo returned after receiving the
 ## 4. Critique
 
 ### 4-A. Strengths
-- **Advanced Language Processing:** GPT-4's autoregressive decoder architecture, training, and input context length of 8,192 tokens effectively facilitate the language reasoning and generation required in NatLLo's latter output
+- **Advanced Language Processing:** GPT-4's autoregressive decoder architecture, training, and long context length effectively facilitate the language reasoning and generation required in NatLLo's latter output
 - **Continual Improvement:** as a custom GPT, NatLlo’s capabilities self-update alongside updates to ChatGPT as it is exposed to more data and use cases
 - **Accessibility:** GPT-4’s increasing multimodal capabilities bear positive implications for users requiring assistive technologies
 
