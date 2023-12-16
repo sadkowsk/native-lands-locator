@@ -66,7 +66,7 @@ For the exact instructions that prompt NatLlo according this NLP task sequence (
 ![Screenshot 2023-12-15 at 09 17 50 copy 4](https://github.com/sadkowsk/native-lands-locator/assets/143565317/126d3640-a8ec-4321-93b8-900d5fc04b35)
 
 ## 3. Demonstration
-Currently lacking a dedicated Jupyter Notebook or a Hugging Face Space, please watch the NatLlo video tutorial linked below and above. Also consider testing NatLlo yourself using any of the materials linked here:
+Currently lacking a dedicated Jupyter Notebook or a Hugging Face Space, please watch the NatLlo video tutorial linked below and above. Also consider testing NatLlo yourself using the interactive sample materials linked here:
 - Watch a video walk-through of this repo and a model demonstration here: [link]
 - Try NatLLo yourself here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
 - Demonstration/interaction sample materials:
