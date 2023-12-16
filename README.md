@@ -99,9 +99,9 @@ Next steps for further developing NatLlo might involve adapting it to other tran
 
 ### 5-A. Models and Evaluation
 NatLlo's three-part output might excel best when shared between multiple models and methods. Below is a possible new configuration to address some of NatLlo's limitations:
-- Named Entity Recognition: DistilBERT
-- Retrieval-Augmented Generation: data source with more comprehensive information on indigenous peoples and lands
-- Text summarization and question generation: GPT-4 or a free/open-source model like Mixtral 8x7B
+- **Named Entity Recognition:** DistilBERT
+- **Retrieval-Augmented Generation:** data source with more comprehensive information on indigenous peoples and lands
+- **Text summarization and question generation:** GPT-4 or a free/open-source model like Mixtral 8x7B
 
 Benchmarks and datasets for future evaluation, among many possibilities, include GLUE, F1, and CoNLL-2003.
 
