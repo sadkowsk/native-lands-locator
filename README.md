@@ -97,10 +97,11 @@ The following screenshot displays the output NatLlo returned after receiving the
 ## 5. Implications
 Next steps for further developing NatLlo might involve adapting it to other transformer models and rigorously testing its capabilities with reputable benchmarks, while upholding ethical practices pertaining to the portrayal of indigenous narratives and intellectual property.
 
-### 5-A. Alternative Models
-- BERTA, RoBERTa, DistilBERT: 
-- Mistral: 
-- Geospatial transformer models: 
+### 5-A. Combined Models
+NatLlo's three-part output might excel best when shared between multiple models and methods. Below is a possible new configuration to address some of NatLlo's limitations:
+- Named Entity Recognition: DistilBERT
+- Retrieval-Augmented Generation: data source with more comprehensive information on indigenous peoples and lands
+- Text summarization and question generation: GPT-4 or a free/open-source model like Mixtral 8x7B
 
 ### 5-B. Evaluation
 - GeoNames Benchmark:
