@@ -1,7 +1,7 @@
 # Native Lands Locator (NatLLo)
 Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your inputs' geographic references with nearby native and indigenous lands. After identifying geographic entities and relating them to nearby native lands, it then explores the cultural and historical connections of the two. NatLlo has implications for further development using other models and approaches.
 - See `modelcard.md` above for the mock Hugging Face model card.
-- Watch a video walk-through of this repo and a model demonstration here: [link]
+- Watch a video walk-through of this repo and a model demonstration [here](https://vanderbilt365-my.sharepoint.com/:v:/g/personal/karol_sadkowski_vanderbilt_edu/EX4WmA0AgetLkTaQ1SwsFmsBtxTXSADaXx1D2sP5n209wQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TiKMud).
 - Try NatLLo yourself here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
 
 ## 1. Overview
@@ -67,7 +67,7 @@ For the exact instructions that prompt NatLlo according this NLP task sequence (
 
 ## 3. Demonstration
 Currently lacking a dedicated Jupyter Notebook or a Hugging Face Space, please watch the NatLlo video tutorial linked below and above. Also consider testing NatLlo yourself using the interactive sample materials linked here:
-- Watch a video walk-through of this repo and a model demonstration here: [link]
+- Watch a video walk-through of this repo and a model demonstration [here](https://vanderbilt365-my.sharepoint.com/:v:/g/personal/karol_sadkowski_vanderbilt_edu/EX4WmA0AgetLkTaQ1SwsFmsBtxTXSADaXx1D2sP5n209wQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TiKMud).
 - Try NatLLo yourself here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
 - Demonstration/interaction sample materials:
   - News article (New York Times)[^4]: https://www.nytimes.com/2023/12/14/us/rain-storm-forecast-snow.html
