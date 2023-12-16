@@ -97,19 +97,15 @@ The following screenshot displays the output NatLlo returned after receiving the
 ## 5. Implications
 Next steps for further developing NatLlo might involve adapting it to other transformer models and rigorously testing its capabilities with reputable benchmarks, while upholding ethical practices pertaining to the portrayal of indigenous narratives and intellectual property.
 
-### 5-A. Combined Models
+### 5-A. Models and Evaluation
 NatLlo's three-part output might excel best when shared between multiple models and methods. Below is a possible new configuration to address some of NatLlo's limitations:
 - Named Entity Recognition: DistilBERT
 - Retrieval-Augmented Generation: data source with more comprehensive information on indigenous peoples and lands
 - Text summarization and question generation: GPT-4 or a free/open-source model like Mixtral 8x7B
 
-### 5-B. Evaluation
-- GeoNames Benchmark:
-- CoNLL-2003 Dataset: 
-- GLUE:
-- F1 Score: 
+Benchmarks and datasets for future evaluation, among many possibilities, include GLUE, F1, and CoNLL-2003.
 
-### 5-C. Indigenous Ownership
+### 5-B. Indigenous Ownership
 Further adaptations and deployments of NatLlo should prioritize ensuring cultural sensitivity and accurate representation of indigenous peoples, including but not limited to respecting indigenous intellectual property and cultural heritage, and promoting inclusivity and diversity to honor indigenous perspectives.
 
 [^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
