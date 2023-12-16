@@ -67,7 +67,7 @@ For the exact instructions that prompt NatLlo according this NLP task sequence (
 
 ## 3. Demonstration
 Currently lacking a dedicated Jupyter Notebook or a Hugging Face Space, please watch the NatLlo video tutorial linked below and above. Also consider testing NatLlo yourself using any of the materials linked here:
-- Watch a video walk-through of this repo and a model demonstration here: [youtube link]
+- Watch a video walk-through of this repo and a model demonstration here: [link]
 - Try NatLLo yourself here: https://chat.openai.com/g/g-KP0esL5Q8-native-lands-locator-natllo
 - Demonstration/interaction sample materials:
   - News article (New York Times)[^4]: https://www.nytimes.com/2023/12/14/us/rain-storm-forecast-snow.html
