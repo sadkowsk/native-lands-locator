@@ -7,7 +7,7 @@ Native Lands Locator (NatLLo) is a custom GPT hosted by OpenAI that matches your
 ## 1. Overview
 
 ### 1-A. Motivation
-Popular references to geographic locations rarely acknowledge these locations' belonging, past or present, to native and indigenous peoples. NatLlo enables users to explore the potential relationships between their input materials with native and indigenous peoples and their lands. In doing so, it aims to counter their historical invisibility and marginalization, fostering appreciation of their cultural and ecological significance. By linking the geographic entities referenced in users' materials to nearby native lands, NatLlo promotes more locally inclusive considerations of global human diversity.
+Popular references to geographic locations rarely acknowledge these locations' belonging, past or present, to native and indigenous peoples. NatLlo enables users to explore the potential relationships between their input materials with native and indigenous peoples and their lands. In doing so, it aims to counter their historical invisibility and marginalization, fostering appreciation of their cultural and ecological significance. Ultimately, NatLlo promotes more locally inclusive considerations of place.
 
 ### 1-B. Contributions
 - **Use Cases:** place-based education; project research and drafting
