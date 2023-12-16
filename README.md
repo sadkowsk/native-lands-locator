@@ -106,7 +106,8 @@ NatLlo's three-part output might excel best when shared between multiple models 
 Benchmarks and datasets for future evaluation, among many possibilities, include GLUE, F1, and CoNLL-2003.
 
 ### 5-B. Indigenous Ownership
-Further adaptations and deployments of NatLlo should prioritize ensuring cultural sensitivity and accurate representation of indigenous peoples, including but not limited to respecting indigenous intellectual property and cultural heritage, and promoting inclusivity and diversity to honor indigenous perspectives.
+> [!IMPORTANT]
+> Further adaptations and deployments of NatLlo should prioritize ensuring cultural sensitivity and accurate representation of indigenous peoples, including but not limited to respecting indigenous intellectual property and cultural heritage, and promoting inclusivity and diversity to honor indigenous perspectives.
 
 [^1]: J. E. Lewis et al., “Indigenous Protocol and Artificial Intelligence Position Paper.” Accessed: Dec. 14, 2023. [Online]. Available: https://spectrum.library.concordia.ca/id/eprint/986506/
 
